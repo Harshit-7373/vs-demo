@@ -1,0 +1,282 @@
+*{
+    margin: 0px;
+    font-family: arial;
+    background-color: black;
+    color: white;
+}
+
+.nav-bar{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 60px;
+}
+
+.nav-logo{
+    height: 40px;
+    width: 40px;
+    background-size: contain;
+}
+
+.logo{
+    height: 40px;
+    width: 40px;
+    background-size: contain;
+    display: flex;
+}
+
+#nana{
+    height: 40px;
+    width: 40px;
+    background-size: contain;
+    margin-left: 120px;
+}
+
+.name{
+    display: inline;
+    margin-left: 40px;
+    display: flex;
+    margin-left: 140px;
+}
+
+.nav-content{
+    margin-left: 20px;
+}
+.updates{
+    margin-left: 20px;
+
+}
+
+.blog{
+    margin-left: 20px;
+
+}
+
+.api{
+    margin-left: 20px;
+
+}
+
+.extensions{
+    margin-left: 20px;
+
+}
+
+.faqs{
+    margin-left: 20px;
+
+}
+
+.sunlight{
+    margin-left:180px;
+}
+
+.placeholder{
+    margin-left: 20px;
+    height: 20px;
+}
+
+.download{
+    margin-left: 20px;
+    background-color: #4daafc;
+    border-radius: 5px;
+    display: inline-block;
+    height: fit-content;
+    width: 75px;
+}
+
+.version{
+    display: flex;
+    align-items: center;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+
+#free{
+    margin-top: 80px;
+    margin-left: 60px;
+    padding: 20px;
+            background-color: black; /* Background color of the box */
+            border-radius: 15px;       /* Controls the curvature of the box corners */
+            border: 2px solid #ccc;     /* Optional: border around the box */
+            max-width: 350px;           /* Optional: max width for the box */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: shadow for a 3D effect */;
+}
+
+.name-plate{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.sher{
+    display: flex;
+}
+
+#web{
+    color: #4daafc;
+    margin-left: 60px;
+}
+
+#insider{
+    color: #4daafc;
+    margin-left: 10px;
+}
+
+#or{
+    margin-left: 10px;
+}
+
+#other{
+    color: #4daafc;
+    margin-left: 10px;
+}
+
+#image{
+    display: flex;
+    height: 380px;
+    width: 750px;
+    margin-left: 120px;
+    margin-top: -240px;
+}
+
+hr {
+    border: none;            /* Removes default border */
+    height: 2px;             /* Line thickness */
+    background-color: #333;  /* Line color */
+    margin: 40px 0;          /* Space around the line */
+}
+
+.code{
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+.para{
+    height: fit-content;
+    width: 300px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.icons{
+    margin-left: 700px;
+    margin-top: -150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 150px; /* Adjust the height as needed */
+}
+
+.icons2{
+    margin-left: 870px;
+    margin-top: -150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 150px; /* Adjust the height as needed */
+
+}
+
+.icons3{
+    margin-left: 1000px;
+    margin-top: -150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 150px; /* Adjust the height as needed */
+}
+
+.CODE2{
+    margin-left: 80px;
+    margin-top: 200px;
+}
+
+.para2{
+    height: fit-content;
+    width: 300px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+
+.container {
+    display: flex;
+    gap: 20px; /* Space between boxes */
+    margin-left: 550px;
+    margin-right: 30px;
+    margin-top: -150px;
+}
+
+.box {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+h2 {
+    margin-top: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.sentiments{
+    margin-top: 150px;
+    margin-left: 90px;
+}
+
+.sentiments-para{
+    height: fit-content;
+    width: 350px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+#ss{
+    display: flex;
+    height: 340px;
+    width: 700px;
+    margin-left: 430px;
+    margin-top: -240px;
+    margin-bottom: 40px;
+
+}
+
+.end{
+    display: flex;
+}
+
+#support{
+    margin-left: 20px;
+    margin-top: -20px;
+
+
+}
+#privacy{
+margin-left: 20px;
+margin-top: -20px;
+
+}
+
+#terms{
+margin-left: 20px;
+margin-top: -20px;
+
+}
+#license{
+    margin-left: 20px;
+    margin-top: -20px;
+
+
+}
+
+#windows{
+    margin-left: 800px;
+    margin-top: -20px;
+}
